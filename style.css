@@ -1,0 +1,46 @@
+.head{
+  padding-left:500px;
+  color:orange;
+}
+.head1{
+  padding-left:525px;
+  color:orange;
+}
+.img
+{
+  min-height:400px;
+  background-image:url("http://bgfons.com/upload/lines_texture1095.jpg");
+  background-size:cover;
+  background-position-x: 55%;
+  background-position-y: 85%;
+}
+.quote{
+  float:right;
+  padding-right:100px;
+  padding-left:300px;
+  font-size:2em;
+  color:yellow;
+  
+}
+p{
+  color:white;
+}
+ul li{
+  color:red;
+  list-style-type:disc;
+  
+}
+.pad0
+{
+  padding-left:150px;
+  font-size:1.2em;
+}
+.pad{
+  padding-left:200px;
+  padding-right:200px;
+  
+}
+.size{
+  font-size:2em;
+  padding-left:250px;
+}
